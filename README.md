@@ -1,4 +1,4 @@
-# Introducción a la Ciencia de Datos con Python
+# Sistemas de Recomendación
 
 * Autor: Ricardo Moya García, PhD
 * Release: 1.0.0
