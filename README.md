@@ -71,7 +71,7 @@ A continuación se muestran los pasos a seguir para crear el entorno virtual con
 2.- Activar el entorno virtual
 
 ```
->> conda activate python36_DS
+>> conda activate python36_RecSys
 ```
 
 #### Bonus Track Anaconda
